@@ -3,7 +3,7 @@
 #define AUDIODELAY 7
 
 // Pin definitions
-#define ANALOGPIN 1
+#define ANALOGPIN 0
 #define STROBEPIN 5
 #define RESETPIN A2
 
